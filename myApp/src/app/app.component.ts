@@ -15,7 +15,6 @@ export class AppComponent {
     private _todoService: TodoService
   ){
     this.taskList = this._todoService.getTodoList();
-    console.log(this.taskList)
   }
 
   addTodo(){
@@ -25,6 +24,7 @@ export class AppComponent {
         isCheck: false
       });
     }
+    this.taskField = '';
   }
 
 }

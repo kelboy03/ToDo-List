@@ -4,9 +4,9 @@ import {Injectable} from '@angular/core';
 export class TodoService {
 
   private _todoList = [
-    { task: 'Check 1' },
-    { task: 'Check 2' },
-    { task: 'Check 3' },
+    { task: 'Sample Task 3' },
+    { task: 'Sample Task 2' },
+    { task: 'Sample Task 1' },
   ];
  
   getTodoList() {
