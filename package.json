@@ -1,0 +1,28 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "Angular6 Todo-List Sample Application for beginners ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelboy03/ToDo-List.git"
+  },
+  "keywords": [
+    "angular",
+    "Todo",
+    "TodoList",
+    "angularapp",
+    "angular6",
+    "angular",
+    "arrays"
+  ],
+  "author": "kelboy03",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelboy03/ToDo-List/issues"
+  },
+  "homepage": "https://github.com/kelboy03/ToDo-List#readme"
+}

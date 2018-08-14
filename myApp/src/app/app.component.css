@@ -1,0 +1,15 @@
+.main-container{
+    width:500px;
+    height:100%;
+    position:relative;
+    margin: auto;
+    padding-top:10px;
+}
+
+.add-button{
+    border-radius: 0px;
+}
+
+.check{
+    padding-right: 5px;
+}
