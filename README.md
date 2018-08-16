@@ -1,2 +1,2 @@
 # ToDo-List
-angular6 ToDo-List Samole Project
+angular6 ToDo-List Sample Project
